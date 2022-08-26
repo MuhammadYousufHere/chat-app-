@@ -1,0 +1,19 @@
+=> Nodes Uses the same language for frontend and backend. 
+
+WEB FRAMEWORKS FOR NODE 
+1 -Express
+    tried and tested
+
+2- Sails
+    Features Rich (has many ORM sub FRAMEWORKS)
+
+3 - KOA
+    Most Modern FRAMEWORK        
+
+=========================================================================================
+
+socket.io
+
+real time communication
+ => client side
+ => server side
